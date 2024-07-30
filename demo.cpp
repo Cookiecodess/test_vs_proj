@@ -6,5 +6,6 @@ int main() {
 
 	// this is feature branch.
 	cout << "welcome to feature.";
+	cout << "we hope you enjoy your stay here.";
 	return 0;
 }
